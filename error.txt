@@ -1,0 +1,41 @@
+ERROR
+Failed to fetch
+TypeError: Failed to fetch
+    at fetchInfo (http://localhost:3000/static/js/bundle.js:3149:5)
+    at http://localhost:3000/static/js/bundle.js:3153:5
+    at commitHookEffectListMount (http://localhost:3000/static/js/bundle.js:34562:30)
+    at commitPassiveMountOnFiber (http://localhost:3000/static/js/bundle.js:36055:17)
+    at commitPassiveMountEffects_complete (http://localhost:3000/static/js/bundle.js:36027:13)
+    at commitPassiveMountEffects_begin (http://localhost:3000/static/js/bundle.js:36017:11)
+    at commitPassiveMountEffects (http://localhost:3000/static/js/bundle.js:36007:7)
+    at flushPassiveEffectsImpl (http://localhost:3000/static/js/bundle.js:37892:7)
+    at flushPassiveEffects (http://localhost:3000/static/js/bundle.js:37844:18)
+    at http://localhost:3000/static/js/bundle.js:37659:13
+ERROR
+Failed to fetch
+TypeError: Failed to fetch
+    at fetchInfo (http://localhost:3000/static/js/bundle.js:3150:5)
+    at http://localhost:3000/static/js/bundle.js:3153:5
+    at commitHookEffectListMount (http://localhost:3000/static/js/bundle.js:34562:30)
+    at commitPassiveMountOnFiber (http://localhost:3000/static/js/bundle.js:36055:17)
+    at commitPassiveMountEffects_complete (http://localhost:3000/static/js/bundle.js:36027:13)
+    at commitPassiveMountEffects_begin (http://localhost:3000/static/js/bundle.js:36017:11)
+    at commitPassiveMountEffects (http://localhost:3000/static/js/bundle.js:36007:7)
+    at flushPassiveEffectsImpl (http://localhost:3000/static/js/bundle.js:37892:7)
+    at flushPassiveEffects (http://localhost:3000/static/js/bundle.js:37844:18)
+    at http://localhost:3000/static/js/bundle.js:37659:13
+ERROR
+Failed to fetch
+TypeError: Failed to fetch
+    at http://localhost:3000/static/js/bundle.js:2550:5
+    at commitHookEffectListMount (http://localhost:3000/static/js/bundle.js:34562:30)
+    at commitPassiveMountOnFiber (http://localhost:3000/static/js/bundle.js:36055:17)
+    at commitPassiveMountEffects_complete (http://localhost:3000/static/js/bundle.js:36027:13)
+    at commitPassiveMountEffects_begin (http://localhost:3000/static/js/bundle.js:36017:11)
+    at commitPassiveMountEffects (http://localhost:3000/static/js/bundle.js:36007:7)
+    at flushPassiveEffectsImpl (http://localhost:3000/static/js/bundle.js:37892:7)
+    at flushPassiveEffects (http://localhost:3000/static/js/bundle.js:37844:18)
+    at http://localhost:3000/static/js/bundle.js:37659:13
+    at workLoop (http://localhost:3000/static/js/bundle.js:47383:38)
+
+   
